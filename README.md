@@ -46,12 +46,9 @@ Este repositório é destinado ao meu portfólio de estudos. Sinta-se à vontade
 
 Você pode me encontrar nos seguintes links:
 
-* **GitHub:** [https://github.com/diegovinicius-dev](https://github.com/diegovinicius-dev)
-    * [![GitHub Badge](https://img.shields.io/badge/GitHub-diegovinicius--dev-black?style=flat-square&logo=github)](https://github.com/diegovinicius-dev)
-* **LinkedIn:** [https://www.linkedin.com/in/diego-cavalcante-tech/](https://www.linkedin.com/in/diego-cavalcante-tech/)
-    * [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-diego&#x20;cavalcante&#x20;tech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diego-cavalcante-tech/)
-* **Instagram:** [https://www.instagram.com/diegovini.dev?igsh=YjlxeXcwZmJocGkz](https://www.instagram.com/diegovini.dev?igsh=YjlxeXcwZmJocGkz)
-    * [![Instagram Badge](https://img.shields.io/badge/Instagram-diegovini.dev-E1306C?style=flat-square&logo=instagram)](https://www.instagram.com/diegovini.dev?igsh=YjlxeXcwZmJocGkz)
+* **GitHub:** [![GitHub Badge](https://img.shields.io/badge/GitHub-diegovinicius--dev-black?style=flat-square&logo=github)](https://github.com/diegovinicius-dev)
+* **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-diego&#x20;cavalcante&#x20;tech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diego-cavalcante-tech/)
+* **Instagram:** [![Instagram Badge](https://img.shields.io/badge/Instagram-diegovini.dev-E1306C?style=flat-square&logo=instagram)](https://www.instagram.com/diegovini.dev?igsh=YjlxeXcwZmJocGkz)
 * **Email:** diegocavalcante.tech@gmail.com
 
 ## 🚀 Começando
